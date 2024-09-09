@@ -1,9 +1,12 @@
-const name = "gian carlo"; 
-const whatDoYouWannaBecomeInYourLife = "programmer";
-const gender = "male";
-const twitterHandle = "@gacilangian";
+//Declare and Intialize the variables
+let name "gian carlo";
+Let what Do YouWannaBecome InYourLife "programmer";
+let gender "male";
+let twitterHandle "@gacilangian";
 
-console.log("gian carlo:", name);
-console.log("programmer:", whatDoYouWannaBecomeInYourLife);
-console.log("Male:", gender);
-console.log("@gacilangian:", twitterHandle);
+//Log the variables to the console
+console.log("Name" name);
+console.log("What do you want to become:+ what Do YouWannaBecomeInYourLife);
+Ctrlel Codelum Command
+console.log("Gender:" + gender);
+console.log("Twitter Handle:" + twitterHandle);
